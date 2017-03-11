@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoboTracker</string>
+    <string name="search_hint">Search Teams</string>
+    <string name="app_label">Team 75</string>
+    <string name = "yes">Yes</string>
+    <string name = "no">Yes</string>
+    <string-array name="arrays">
+        <item>Does Not Shoot ▼</item>
+        <item>Not Accurate ▼</item>
+        <item>Fairly Accurate ▼</item>
+        <item>Very Accurate ▼</item>
+    </string-array>
+    <string name="title_activity_enter_code">EnterCode</string>
+
+</resources>
